@@ -278,7 +278,7 @@ const CONFIG = {
 
 ## 💡 **Important Notes**
 
-<div align="center">
+<div align="left">
 
 ```diff
 + Quality over Completion
@@ -301,7 +301,7 @@ Innovative solutions and UI/UX improvements are encouraged
 
 ## 🎊 **Ready to Start?**
 
-<div align="center">
+<div align="left">
 
 **Remember: This is about showcasing your skills and thought process**
 

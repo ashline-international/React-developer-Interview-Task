@@ -321,9 +321,11 @@ Innovative solutions and UI/UX improvements are encouraged
 
 ```
 <div align="center">
+  
 ![Status](https://img.shields.io/badge/Status-Ready%20to%20Build-059669?style=flat&logoColor=white)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-f59e0b?style=flat&logoColor=white)
 ![Duration](https://img.shields.io/badge/Duration-2%20Days-dc2626?style=flat&logoColor=white)
+  
 </div>
 </div>
 
